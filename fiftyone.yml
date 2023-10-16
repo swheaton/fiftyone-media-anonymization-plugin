@@ -1,0 +1,10 @@
+name: "@swheaton/anonymize"
+author: "@swheaton"
+description: Privacy/Anonymization Plugin
+version: 1.0.0
+fiftyone:
+  version: "*"
+url: https://github.com/swheaton/fiftyone-media-anonymization-plugin/blob/main/README.md
+license: MIT
+operators:
+  - blur_objects
