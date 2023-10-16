@@ -12,7 +12,7 @@ in the images and apply a blur
 ## Installation
 
 ```shell
-fiftyone plugins download https://github.com/swheaton/twilio-automation-plugin
+fiftyone plugins download https://github.com/swheaton/fiftyone-media-anonymization-plugin
 ```
 
 Refer to the [main README](https://github.com/voxel51/fiftyone-plugins) for
