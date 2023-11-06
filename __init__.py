@@ -214,6 +214,8 @@ class AnonymizeMedia(foo.Operator):
         delegated = ctx.params.get("delegated", False)
         target_view = _get_target_view(ctx, target)
 
+        os.makedirs(output_dir, exist_ok=True)
+
         update_ctx_dataset = False
         if mode == "alt":
             media_path = ctx.params["media_path"]
