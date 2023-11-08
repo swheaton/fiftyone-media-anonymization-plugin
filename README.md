@@ -1,4 +1,5 @@
 # Media Anonymization Plugin
+![AnonymizationPluginNoZeroShotLowRes](https://github.com/swheaton/fiftyone-media-anonymization-plugin/assets/6363888/ade04386-bb3a-493c-a02f-2a2e176fd373)
 
 This plugin is a Python plugin that allows you to anonymize media in your
 FiftyOne dataset by generating a copy of the images where each detection
